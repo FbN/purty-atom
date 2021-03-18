@@ -1,7 +1,7 @@
 {
     "name": "purty-atom",
     "main": "index.js",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Atom package to beautify Purescript with Purty",
     "keywords": [
         "atom",
@@ -14,7 +14,7 @@
     "repository": "https://github.com/FbN/purty-atom",
     "license": "MIT",
     "activationHooks": [
-       "core:loaded-shell-environment"
+        "core:loaded-shell-environment"
     ],
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
