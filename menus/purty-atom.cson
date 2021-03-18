@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Purty'
+      'submenu': [
+        {
+          'label': 'Prettify'
+          'command': 'purty:prettify'
+        }
+      ]
+    ]
+  }
+]

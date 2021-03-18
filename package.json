@@ -1,0 +1,28 @@
+{
+    "name": "purty-atom",
+    "main": "index.js",
+    "version": "0.0.1",
+    "description": "Atom package to beautify Purescript with Purty",
+    "keywords": [
+        "purescript",
+        "purty",
+        "prettier",
+        "beautify",
+        "formatter"
+    ],
+    "repository": "https://github.com/FbN/purty-atom.git",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0"
+    },
+    "dependencies": {
+        "purty": "^7.0.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.22.0",
+        "eslint-config-standard": "^16.0.2",
+        "eslint-plugin-import": "^2.18.2",
+        "eslint-plugin-node": "^11.0.0",
+        "eslint-plugin-promise": "^4.0.1"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "checkJs": true,
+        "target": "es5",
+        "allowJs": true,
+        "jsx": "preserve",
+        "noEmit": true,
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": ".",
+        "lib": ["ESNext", "DOM", "DOM.Iterable", "ScriptHost"],
+        "paths": {},
+        "maxNodeModuleJsDepth": 10
+    },
+    "files": ["index.js"]
+}
