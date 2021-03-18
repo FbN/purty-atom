@@ -10,7 +10,7 @@
         "beautify",
         "formatter"
     ],
-    "repository": "https://github.com/FbN/purty-atom.git",
+    "repository": "https://github.com/FbN/purty-atom",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
