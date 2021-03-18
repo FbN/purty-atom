@@ -4,6 +4,7 @@
     "version": "0.0.0",
     "description": "Atom package to beautify Purescript with Purty",
     "keywords": [
+        "atom",
         "purescript",
         "purty",
         "prettier",
@@ -12,6 +13,9 @@
     ],
     "repository": "https://github.com/FbN/purty-atom",
     "license": "MIT",
+    "activationHooks": [
+       "core:loaded-shell-environment"
+    ],
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
     },
