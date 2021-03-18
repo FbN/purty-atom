@@ -11,7 +11,7 @@
         "beautify",
         "formatter"
     ],
-    "repository": "https://github.com/FbN/purty-atom",
+    "repository": "git@github.com:FbN/purty-atom.git",
     "license": "MIT",
     "activationHooks": [
         "core:loaded-shell-environment"
